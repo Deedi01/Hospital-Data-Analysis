@@ -38,7 +38,7 @@ Practice dataset of about 5,000 patient records. Original source unknown.
 - Routine visits dominate (69%) over emergencies, indicating a largely planned, non-crisis patient load.
 
 ## Dashboard Preview
-![Dashboard](excel%20hospital%20dashboard.png.png)
+![Dashboard](hospital-dashboard.png)
 
 ## Author
 Edidiong Charles | [linkedin.com/in/udo-edidiong-charles-8344b7243] | github.com/Deedi01
